@@ -92,6 +92,12 @@ tags:
 ## 1️⃣7️⃣ - Entertainment
 - [[0A_17_1_WordDictionary]]
 	- Template to create a Word Dictionary where every word/Acronym is a file with it's explanation or meaning depending on the context. 
+
+## 1️⃣8️⃣  - Ancestry
+- [[0A_18_1_Person]]
+	- Template to create a page about an ancestor with details and links to other ancestors
+- [[0A_18_2_Location]]
+	- Template to create a page about geographical location connected with the ancestor's lives 
 ## 9️⃣9️⃣ - Indexation
 - [[0A_99_Index]]
     - Creation of an index like this one
